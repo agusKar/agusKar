@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @agusKar
 - 👀 I’m interested in Frontend & Backend programming
-- 🌱 I’m currently learning Vue, Nuxt, Jest, Eslint, VUEX and TypeScript
+- 🌱 I’m currently learning Vue, Nuxt, Jest, Eslint, VUEX, SASS and TypeScript
 - 📫 You can reach me on [Linkedin](https://www.linkedin.com/in/agustin-fernando-karkocki/) 😀
 
 
